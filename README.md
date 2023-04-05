@@ -1,0 +1,3 @@
+# img_crop_nyaanime
+nyaanimeから頼まれて作った
+単純に正方形でcropしてサイズ指定でwebpで吐き出す奴
